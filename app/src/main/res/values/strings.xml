@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseCRUDDemo</string>
+    <string-array name="PdfDialog">
+        <item>Open</item>
+        <item>Share</item>
+        <item>Delete</item>
+        <item>Close</item>
+    </string-array>
+</resources>
